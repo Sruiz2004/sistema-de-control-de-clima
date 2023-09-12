@@ -1,0 +1,222 @@
+{
+{
+  "caso_numero": 1,
+  "temperatura_actual": 26,
+  "temperatura_consigna": 20,
+  "delta": 6,
+  "condensador": 60,
+  "compresor": 2,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 60
+},
+{
+  "caso_numero": 2,
+  "temperatura_actual": 19,
+  "temperatura_consigna": 20,
+  "delta": 1,
+  "condensador": 0,
+  "compresor": 0,
+  "bomba": 10,
+  "resistencia": 1,
+  "evaporador": 10
+},
+{
+  "caso_numero": 3,
+  "temperatura_actual": 30,
+  "temperatura_consigna": 20,
+  "delta": 10,
+  "condensador": 100,
+  "compresor": 3,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 100
+},
+{
+  "caso_numero": 4,
+  "temperatura_actual": 21,
+  "temperatura_consigna": 20,
+  "delta": 1,
+  "condensador": 10,
+  "compresor": 1,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 10
+},
+{
+  "caso_numero": 5,
+  "temperatura_actual": 24,
+  "temperatura_consigna": 20,
+  "delta": 4,
+  "condensador": 40,
+  "compresor": 2,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 40
+},
+{
+  "caso_numero": 6,
+  "temperatura_actual": 33,
+  "temperatura_consigna": 20,
+  "delta": 10,
+  "condensador": 100,
+  "compresor": 3,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 100
+},
+{
+  "caso_numero": 7,
+  "temperatura_actual": 31,
+  "temperatura_consigna": 20,
+  "delta": 10,
+  "condensador": 100,
+  "compresor": 3,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 100
+},
+{
+  "caso_numero": 8,
+  "temperatura_actual": 29,
+  "temperatura_consigna": 20,
+  "delta": 9,
+  "condensador": 90,
+  "compresor": 3,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 90
+},
+{
+  "caso_numero": 9,
+  "temperatura_actual": 29,
+  "temperatura_consigna": 20,
+  "delta": 9,
+  "condensador": 90,
+  "compresor": 3,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 90
+},
+{
+  "caso_numero": 10,
+  "temperatura_actual": 33,
+  "temperatura_consigna": 20,
+  "delta": 10,
+  "condensador": 100,
+  "compresor": 3,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 100
+},
+{
+  "caso_numero": 11,
+  "temperatura_actual": 16,
+  "temperatura_consigna": 20,
+  "delta": 4,
+  "condensador": 0,
+  "compresor": 0,
+  "bomba": 40,
+  "resistencia": 2,
+  "evaporador": 40
+},
+{
+  "caso_numero": 12,
+  "temperatura_actual": 14,
+  "temperatura_consigna": 20,
+  "delta": 6,
+  "condensador": 0,
+  "compresor": 0,
+  "bomba": 60,
+  "resistencia": 2,
+  "evaporador": 60
+},
+{
+  "caso_numero": 13,
+  "temperatura_actual": 22,
+  "temperatura_consigna": 20,
+  "delta": 2,
+  "condensador": 20,
+  "compresor": 1,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 20
+},
+{
+  "caso_numero": 14,
+  "temperatura_actual": 14,
+  "temperatura_consigna": 20,
+  "delta": 6,
+  "condensador": 0,
+  "compresor": 0,
+  "bomba": 60,
+  "resistencia": 2,
+  "evaporador": 60
+},
+{
+  "caso_numero": 15,
+  "temperatura_actual": 25,
+  "temperatura_consigna": 20,
+  "delta": 5,
+  "condensador": 50,
+  "compresor": 2,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 50
+},
+{
+  "caso_numero": 16,
+  "temperatura_actual": 17,
+  "temperatura_consigna": 20,
+  "delta": 3,
+  "condensador": 0,
+  "compresor": 0,
+  "bomba": 30,
+  "resistencia": 1,
+  "evaporador": 30
+},
+{
+  "caso_numero": 17,
+  "temperatura_actual": 18,
+  "temperatura_consigna": 20,
+  "delta": 2,
+  "condensador": 0,
+  "compresor": 0,
+  "bomba": 20,
+  "resistencia": 1,
+  "evaporador": 20
+},
+{
+  "caso_numero": 18,
+  "temperatura_actual": 22,
+  "temperatura_consigna": 20,
+  "delta": 2,
+  "condensador": 20,
+  "compresor": 1,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 20
+},
+{
+  "caso_numero": 19,
+  "temperatura_actual": 21,
+  "temperatura_consigna": 20,
+  "delta": 1,
+  "condensador": 10,
+  "compresor": 1,
+  "bomba": 0,
+  "resistencia": 0,
+  "evaporador": 10
+},
+{
+  "caso_numero": 20,
+  "temperatura_actual": 14,
+  "temperatura_consigna": 20,
+  "delta": 6,
+  "condensador": 0,
+  "compresor": 0,
+  "bomba": 60,
+  "resistencia": 2,
+  "evaporador": 60
+}
+}
